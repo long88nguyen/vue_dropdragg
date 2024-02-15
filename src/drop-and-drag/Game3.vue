@@ -1,5 +1,5 @@
 <template>
-  <h1>game1</h1>
+  <h1>Game3</h1>
 </template>
 
 <script>
