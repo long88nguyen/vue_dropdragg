@@ -1,7 +1,6 @@
 <template>
     <div class="container">
-        <router-link to = "/drop-and-drag" class="btn btn-primary">Drop and Drag</router-link>
-        <router-view></router-view>
+        <h1>Test</h1>
     </div>
 </template>
 
